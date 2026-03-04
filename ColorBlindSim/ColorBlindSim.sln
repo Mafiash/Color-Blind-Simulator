@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorBlindApp", "ColorBlindApp\ColorBlindApp.vcxproj", "{31D4A680-4127-41FA-86AC-4C84193BC630}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorBlindLib", "ColorBlindLib\ColorBlindLib.vcxproj", "{7A657F5A-5729-4E4C-ACA5-38108F496506}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorBlindAsmLib", "ColorBlindAsmLib\ColorBlindAsmLib.vcxproj", "{2CCABD31-D35A-4BB4-B10C-30A820C92AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D4A680-4127-41FA-86AC-4C84193BC630}.Debug|x64.ActiveCfg = Debug|x64
+		{31D4A680-4127-41FA-86AC-4C84193BC630}.Debug|x64.Build.0 = Debug|x64
+		{31D4A680-4127-41FA-86AC-4C84193BC630}.Release|x64.ActiveCfg = Release|x64
+		{31D4A680-4127-41FA-86AC-4C84193BC630}.Release|x64.Build.0 = Release|x64
+		{7A657F5A-5729-4E4C-ACA5-38108F496506}.Debug|x64.ActiveCfg = Debug|x64
+		{7A657F5A-5729-4E4C-ACA5-38108F496506}.Debug|x64.Build.0 = Debug|x64
+		{7A657F5A-5729-4E4C-ACA5-38108F496506}.Release|x64.ActiveCfg = Release|x64
+		{7A657F5A-5729-4E4C-ACA5-38108F496506}.Release|x64.Build.0 = Release|x64
+		{2CCABD31-D35A-4BB4-B10C-30A820C92AF5}.Debug|x64.ActiveCfg = Debug|x64
+		{2CCABD31-D35A-4BB4-B10C-30A820C92AF5}.Debug|x64.Build.0 = Debug|x64
+		{2CCABD31-D35A-4BB4-B10C-30A820C92AF5}.Release|x64.ActiveCfg = Release|x64
+		{2CCABD31-D35A-4BB4-B10C-30A820C92AF5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C40936AD-669A-4A9C-BD0F-7230DCEAC7D0}
+	EndGlobalSection
+EndGlobal
