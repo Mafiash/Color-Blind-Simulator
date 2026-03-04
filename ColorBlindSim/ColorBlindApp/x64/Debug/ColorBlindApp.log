@@ -1,0 +1,304 @@
+﻿   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (C:/Qt/6.8.3/msvc2022_64/bin/qmake)
+   Qt: 6.8.3
+  uic ColorBlindApp.ui
+  rcc ColorBlindApp.qrc
+  moc ColorBlindApp.h
+   RCC: Warning: No resources in 'C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.qrc'.
+   Could not request license for qtframework:
+       Message: No valid license could be acquired. Please contact your license admin. For more details, see: https://doc.qt.io/qtlicenseserver/qls-reference-troubleshooting-service.html#qt-license-service-error-messages.
+       Status code: 100
+       Error details:
+         • The licenses available to the current user have expired. License IDs:
+           11776463. Check your available licenses in the customer portal or
+           contact your local license admin. For more details, see
+           https://doc.qt.io/qtlicenseserver/qls-reference-troubleshooting-server.html#reservation-errors.
+   Cannot acquire license to use qtframework.
+   If you have a valid commercial license, please create a bug report to Qt Bugtracker:
+   https://bugreports.qt.io/projects/QLS
+   Attach the above details to the bug report.
+   Additionally, attach the logs folder of the Qt License Service that can be found from the directory of this Qt installation.
+   On this system the log file path appears to be: "C:\Qt\Tools\LicenseService\logs".
+   To bypass the license check entirely, set the environment variable QTFRAMEWORK_BYPASS_LICENSE_CHECK with value 1.
+  ColorBlindApp.cpp
+  main.cpp
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x56 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x57 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x48 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x5e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x51 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x11d that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x178 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0xb1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x17c that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x186 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x187 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0xdc that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x347 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x34f that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x162 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x16e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x431 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x16f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x432 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x249 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x442 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x258 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x716 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x263 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x89c that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x302 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x8ac that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x310 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x8af that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x8b4 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x355 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0xcf7 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x35d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0xcf8 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x363 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x109d that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x372 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x3c9 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x12f5 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x3cd that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1391 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x13a3 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x13a4 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x13b7 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x149b that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x153f that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1553 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x1565 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x15ce that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.cpp(1,1): warning C4828: The file contains a character starting at offset 0x15d2 that is illegal in the current source character set (codepage 65001).
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x56 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x57 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x5e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0xb1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0xdc that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x162 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x16e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x16f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x249 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x258 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x263 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x302 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x310 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x355 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x35d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x363 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x372 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x3c9 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x3cd that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x21 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x3a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x5c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x61 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x122 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x135 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x14e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x184 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x18e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x194 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x1ad that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x1cf that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x1d0 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x1e0 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x1e8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x20a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x252 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x255 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x2af that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x2b1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x3bd that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x3eb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x3f4 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x41a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(1,1): warning C4828: The file contains a character starting at offset 0x422 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ColorBlindApp.cpp')
+  
+  qrc_ColorBlindApp.cpp
+  moc_ColorBlindApp.cpp
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x56 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x57 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x5e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0xb1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0xdc that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x162 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x16e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x16f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x249 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x258 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x263 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x302 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x310 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x355 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x35d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x363 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x372 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x3c9 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindApp\ColorBlindApp.h(1,1): warning C4828: The file contains a character starting at offset 0x3cd that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_ColorBlindApp.cpp')
+  
+  ColorBlindApp.vcxproj -> C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\x64\Debug\ColorBlindApp.exe

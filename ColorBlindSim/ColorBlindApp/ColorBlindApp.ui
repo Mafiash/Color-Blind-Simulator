@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ColorBlindAppClass</class>
+ <widget class="QMainWindow" name="ColorBlindAppClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>573</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ColorBlindApp</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QLabel" name="viewOriginal">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>20</y>
+      <width>141</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Obraz1</string>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="viewProcessed">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>20</y>
+      <width>141</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Obraz2</string>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnLoad">
+    <property name="geometry">
+     <rect>
+      <x>59</x>
+      <y>173</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Wczytaj obraz</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnSave">
+    <property name="geometry">
+     <rect>
+      <x>59</x>
+      <y>223</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Zapisz obraz</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnProcess">
+    <property name="geometry">
+     <rect>
+      <x>59</x>
+      <y>273</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Symuluj</string>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="groupType">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>180</y>
+      <width>161</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Wybierz rodzaj daltonizmu</string>
+    </property>
+    <widget class="QRadioButton" name="radioDeuteranopia">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>111</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Deuteranopia</string>
+     </property>
+    </widget>
+    <widget class="QRadioButton" name="radioProtanopia">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>40</y>
+       <width>131</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Protanopia</string>
+     </property>
+    </widget>
+    <widget class="QRadioButton" name="radioTritanopia">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>60</y>
+       <width>131</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Tritanopia</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupImplementation">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>180</y>
+      <width>120</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Wybierz Algorytm</string>
+    </property>
+    <widget class="QRadioButton" name="radioCPP">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>91</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>C++</string>
+     </property>
+    </widget>
+    <widget class="QRadioButton" name="radioASM">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>40</y>
+       <width>91</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Asembler</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QSpinBox" name="spinThreads">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>270</y>
+      <width>81</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="minimum">
+     <number>1</number>
+    </property>
+    <property name="maximum">
+     <number>64</number>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>280</y>
+      <width>121</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Wybierz liczbę wątków:</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>573</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="ColorBlindApp.qrc"/>
+ </resources>
+ <connections/>
+</ui>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\x64\Release\ColorBlindAsmLib.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\x64\Release\ColorBlindLib.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\x64\Release\ColorBlindApp.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
