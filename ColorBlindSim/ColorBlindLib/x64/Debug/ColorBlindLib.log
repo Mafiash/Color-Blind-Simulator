@@ -1,0 +1,8 @@
+﻿  Assembling ColorBlindAsm.asm...
+  ColorBlindLib.cpp
+C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.cpp(56,6): warning C4273: 'ProcessImage': inconsistent dll linkage
+      C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\ColorBlindLib\ColorBlindLib.h(21,28):
+      see previous definition of 'ProcessImage'
+  
+     Creating library C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\x64\Debug\ColorBlindLib.lib and object C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\x64\Debug\ColorBlindLib.exp
+  ColorBlindLib.vcxproj -> C:\Users\Mateusz Smuda\Desktop\STUDIA\ColorBlindSim\x64\Debug\ColorBlindLib.dll
